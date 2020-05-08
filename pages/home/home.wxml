@@ -1,2 +1,4 @@
 <view class="asas">Hello World</view>
 <button size="mini">按钮</button>
+
+<text>知识点1</text>
