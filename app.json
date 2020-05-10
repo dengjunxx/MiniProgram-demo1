@@ -12,27 +12,6 @@
     "backgroundTextStyle": "light",
     "enablePullDownRefresh": false
   },
-  "tabBar": {
-    "color":"#666",
-    "selectedColor": "#56abe4",
-    "backgroundColor": "#ddd",
-    "borderStyle": "black",
-    "list": [{
-      "pagePath": "pages/weather/weather",
-      "text": "天气预报",
-      "iconPath": "images/picture.jpg",
-      "selectedIconPath": "images/picture.jpg"
-    },{
-      "pagePath": "pages/city/city",
-      "text": "设置城市",
-      "iconPath": "images/picture.jpg",
-      "selectedIconPath": "images/picture.jpg"
-    },{
-      "pagePath": "pages/about/about",
-      "text": "关于我",
-      "iconPath": "images/picture.jpg",
-      "selectedIconPath": "images/picture.jpg"
-    }],
-    "position":"bottom"
-  }
+
+  "sitemapLocation": "sitemap96.json"
 }

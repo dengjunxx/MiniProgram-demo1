@@ -1,0 +1,7 @@
+<view class="asas">Hello World</view>
+<button size="mini">按钮</button>
+<text>2.知识点2</text>
+<view wx:for="{{students}}" wx:key="age">{{item.name}}:{{item.age}}</view>
+<text>{{counter}}</text>
+<button bindtap="handleBtnClickAdd">+</button>
+<button bindtap="handleBtnClickMinus"n>-</button>
